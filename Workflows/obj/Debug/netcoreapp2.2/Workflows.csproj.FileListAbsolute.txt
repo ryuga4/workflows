@@ -1,0 +1,11 @@
+C:\Users\micjan11\source\repos\Workflows\Workflows\bin\Debug\netcoreapp2.2\Workflows.deps.json
+C:\Users\micjan11\source\repos\Workflows\Workflows\bin\Debug\netcoreapp2.2\Workflows.runtimeconfig.json
+C:\Users\micjan11\source\repos\Workflows\Workflows\bin\Debug\netcoreapp2.2\Workflows.runtimeconfig.dev.json
+C:\Users\micjan11\source\repos\Workflows\Workflows\bin\Debug\netcoreapp2.2\Workflows.dll
+C:\Users\micjan11\source\repos\Workflows\Workflows\bin\Debug\netcoreapp2.2\Workflows.pdb
+C:\Users\micjan11\source\repos\Workflows\Workflows\obj\Debug\netcoreapp2.2\Workflows.csprojAssemblyReference.cache
+C:\Users\micjan11\source\repos\Workflows\Workflows\obj\Debug\netcoreapp2.2\Workflows.csproj.CoreCompileInputs.cache
+C:\Users\micjan11\source\repos\Workflows\Workflows\obj\Debug\netcoreapp2.2\Workflows.AssemblyInfoInputs.cache
+C:\Users\micjan11\source\repos\Workflows\Workflows\obj\Debug\netcoreapp2.2\Workflows.AssemblyInfo.cs
+C:\Users\micjan11\source\repos\Workflows\Workflows\obj\Debug\netcoreapp2.2\Workflows.dll
+C:\Users\micjan11\source\repos\Workflows\Workflows\obj\Debug\netcoreapp2.2\Workflows.pdb
